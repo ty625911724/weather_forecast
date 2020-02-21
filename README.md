@@ -52,9 +52,9 @@ https://www.tianqiapi.com/index/doc?version=v1<br>
 <img src="https://github.com/ty625911724/weather_forecast/blob/master/Samples/rain.png?raw=true" width="48%"/><br>
 <img src="https://github.com/ty625911724/weather_forecast/blob/master/Samples/cloud.png?raw=true" width="48%"/>
 <img src="https://github.com/ty625911724/weather_forecast/blob/master/Samples/yin.png?raw=true" width="48%"/><br>
-点击常用城市，可以选择许多城市，点击查询，即可查询。
+点击常用城市，可以选择许多城市，点击查询，即可查询。<br>
 <img src="https://github.com/ty625911724/weather_forecast/blob/master/Samples/citys.png?raw=true" width="48%"/><br>
-点击折线图，即可展示气温折线图。
+点击折线图，即可展示气温折线图。<br>
 <img src="https://github.com/ty625911724/weather_forecast/blob/master/Samples/linechart.png?raw=true" width="30%"/><br>
 
 ## Technology
