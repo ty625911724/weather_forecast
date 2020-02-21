@@ -47,16 +47,20 @@ https://www.tianqiapi.com/index/doc?version=v1<br>
 输入城市名字，即可查询天气，同时语音播报当前天气状况，之后播放音乐。<br>
 <p>
 不同的天气有不同的背景图，也播放不同的音乐，天气为晴天时，会播放周杰伦的《晴天》,雨天时，播放孙燕姿的《雨天》,阴天时，播放陈奕迅的《阴天快乐》<br>
-不同天气的效果展示如下：
-
+不同天气的效果展示如下：<br>
+<img src="https://github.com/ty625911724/weather_forecast/blob/master/Samples/sun.png?raw=true" width="48%"/>
+<img src="https://github.com/ty625911724/weather_forecast/blob/master/Samples/rain.png?raw=true" width="48%"/><br>
+<img src="https://github.com/ty625911724/weather_forecast/blob/master/Samples/cloud.png?raw=true" width="48%"/>
+<img src="https://github.com/ty625911724/weather_forecast/blob/master/Samples/yin.png?raw=true" width="48%"/><br>
 点击常用城市，可以选择许多城市，点击查询，即可查询。
-
+<img src="https://github.com/ty625911724/weather_forecast/blob/master/Samples/citys.png?raw=true" width="48%"/><br>
 点击折线图，即可展示气温折线图。
-
+<img src="https://github.com/ty625911724/weather_forecast/blob/master/Samples/linechart.png?raw=true" width="30%"/><br>
 
 ## Technology
 工程目录结构如下图：<br>
-
+<img src="https://github.com/ty625911724/weather_forecast/blob/master/Samples/consumer.png?raw=true" width="35%"/><br>
+<img src="https://github.com/ty625911724/weather_forecast/blob/master/Samples/provider.png?raw=true" width="35%"/><br>
 
 该demo使用了下述的技术：<br>
 多线程技术、数据库技术、SOA分布式系统<br>
